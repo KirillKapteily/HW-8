@@ -1,0 +1,7 @@
+:root{
+    --pink-color: pink;
+}
+
+.text-box>h3{
+    color: var(--pink-color);
+}
