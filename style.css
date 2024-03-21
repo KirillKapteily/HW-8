@@ -1,11 +1,39 @@
-h3{
+h3:nth-child(odd){
     color:pink;
 }
 
-p{
+p:nth-child(odd){
     color: red;
 }
 
 #greycol{
     color: gray;
 }
+
+.yellow{
+    color: yellow;
+}
+
+p:nth-child(7){
+    color: green;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+  
+td:nth-child(3){
+color: blue;
+}
+
+td:nth-child(4){
+    color: green;
+    }
+
+td:nth-child(5){
+     color: gold;
+     }
+
+     td:nth-child(2){
+        color: crimson;
+        }   
