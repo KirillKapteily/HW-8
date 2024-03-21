@@ -1,7 +1,11 @@
-:root{
-    --pink-color: pink;
+h3{
+    color:pink;
 }
 
-.text-box>h3{
-    color: var(--pink-color);
+p{
+    color: red;
+}
+
+#greycol{
+    color: gray;
 }
